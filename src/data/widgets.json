@@ -1,0 +1,11 @@
+{
+  "CSPM Executive Dashboard": [
+    { "id": 1, "name": "Test widget 1", "text": "Sample text for widget 1" },
+    { "id": 2, "name": "Test widget 2", "text": "Sample text for widget 2" }
+  ],
+  "Cloud Dashboard": [
+    { "id": 3, "name": "Test Widget 1", "text": "Cloud details widget 1" },
+    { "id": 4, "name": "Test Widget 2", "text": "Cloud details widget 2" },
+    { "id": 5, "name": "Test Widget 3", "text": "Cloud details widget 3" }
+  ]
+}
